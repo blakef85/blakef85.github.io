@@ -1,0 +1,35 @@
+
+body {background-image: url(../images/vineyard.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
+
+h1 {
+	font-family: 'Unica One', cursive;
+	font-weight: 250;
+	color: black;
+	text-align: center;
+	padding-top: 250px;
+	padding-bottom: 5px;
+}
+h2 {
+	font-family: 'Unica One', cursive;
+	font-weight: 200;
+	color: black;
+	text-align: center;
+	padding-top: 1px;
+}
+p {
+	font-family: 'Fauna One', serif;
+	font-weight: 800;
+	color: black;
+	text-align: center;
+}
+
+
+/*h3 {
+	color: black);
+}*/
+
+
+
