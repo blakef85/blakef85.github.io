@@ -1,6 +1,6 @@
 
 body {background-image: url(../images/vineyard.jpg);
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 	}
 
