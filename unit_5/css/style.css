@@ -6,7 +6,9 @@ body {background-image: url(../images/vineyard.jpg);
 	max-width: 525px
 	margin: 2em auto;
 	}
-
+header {
+	background-color: #FFED74;
+}
 
 h1 {
 	font-family: 'Unica One', cursive;
@@ -25,6 +27,7 @@ nav {
 	letter-spacing: 5px, 0;
 	text-decoration-color: black;
 	word-spacing: 10px;
+	background-color: #E8C66A;
 
 
 
@@ -32,10 +35,10 @@ nav {
 h2 {
 	font-family: 'Unica One', cursive;
 	font-weight: 200;
-	color: black;
 	text-align: center;
 	padding-top: 1px;
-	margin: 2em auto
+	margin: 1em auto
+	background-color: orange;
 
 }
 p {
@@ -46,11 +49,24 @@ p {
 	text-align: center;
 	line-height: 1.5em;
 	margin: 2em auto;
+	background-color: red;
+}
+aside {
+		background-color: #FFC675;
+}
+article {
+		background-color: #E89C6C
+
 }
 hr {background-color: ;}
 
+
 footer {
 		margin-top: 10em;
+		background-color: #FF957E;
+}
+div {
+	background-color: #FFE2B8;
 }
 /*h3 {
 	color: black);
