@@ -1,7 +1,9 @@
 
 body {background-image: url(../images/vineyard.jpg);
 	background-size: cover;
-	background-repeat: no-repeat;
+	background-repeat: no-repeat
+	font-size:16px; /*1em = 16px*/
+	max-width: 500px
 	}
 
 h1 {
@@ -21,9 +23,11 @@ h2 {
 }
 p {
 	font-family: 'Fauna One', serif;
-	font-weight: 800;
+	font-size:1em;
+	max-width:30em;
 	color: black;
 	text-align: center;
+	line-height: 1.5em;
 }
 
 
